@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloMe</string>
+    <string name="button_text">Próxima tela</string>
+    <string name="label_text">Hello, Bruno Freitas</string>
+    <string name="title_activity_hello">HelloActivity</string>
+    
+    <!-- Cores -->
+    <string name="background">#f4f5f4</string>
+    <string name="label_blue">#0a84bd</string>
+
+</resources>
