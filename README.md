@@ -5,6 +5,7 @@ Para o inicio do projeto segui as guidelines em
   http://developer.android.com/training/basics/firstapp/index.html
   
 Logo após foi criada uma guideline com as metricas e cores no photoshop
+https://github.com/brunosfreitas/HelloMe/blob/master/guideline%20copy.png
  
 Para seguir com um código organizado todas as questoes de posicionamento, tamanho e textos foram postos em código
   
